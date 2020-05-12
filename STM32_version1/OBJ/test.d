@@ -7,4 +7,3 @@
 ..\obj\test.o: ..\SYSTEM\usart\usart.h
 ..\obj\test.o: D:\software\keil5\ARM\ARMCC\Bin\..\include\stdio.h
 ..\obj\test.o: ..\SYSTEM\delay\delay.h
-..\obj\test.o: ..\HARDWARE\LED\led.h
